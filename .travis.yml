@@ -12,7 +12,7 @@ go:
   - 1.11.x
 
 script:
-  - get github.com/wyliog/gcrsync
+  - go get github.com/wyliog/gcrsync
   - gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo 'wyliog/gcrsync'	--githubtoken ${GITHUB_TOKEN} --namespace google-containers
   - gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo 'wyliog/gcrsync'	--githubtoken ${GITHUB_TOKEN} --namespace kubernetes-helm
   - gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo 'wyliog/gcrsync'	--githubtoken ${GITHUB_TOKEN} --namespace istio-release
