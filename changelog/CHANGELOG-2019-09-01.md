@@ -1179,3 +1179,11 @@
 - gcr.io/istio-release/proxy_debug:master-20190901-09-15-distroless
 - gcr.io/istio-release/proxy_debug:release-1.3-20190901-10-15
 - gcr.io/istio-release/proxy_debug:release-1.3-20190901-10-15-distroless
+### 2019-09-01 19:50:48 Update:
+
+- gcr.io/istio-release/sidecar_injector:release-1.2-20190901-11-15
+- gcr.io/istio-release/test_policybackend:release-1.2-20190901-11-15
+- gcr.io/istio-release/proxy_init:release-1.2-20190901-11-15
+- gcr.io/istio-release/proxyv2:release-1.2-20190901-11-15
+- gcr.io/istio-release/proxytproxy:release-1.2-20190901-11-15
+- gcr.io/istio-release/proxy_debug:release-1.2-20190901-11-15
