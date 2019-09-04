@@ -662,3 +662,11 @@
 - gcr.io/spinnaker-marketplace/halyard:1.9.1
 - gcr.io/spinnaker-marketplace/halyard:1.9.2-20180905161429
 - gcr.io/spinnaker-marketplace/halyard:1.9.1-20180830145737
+### 2019-09-05 07:30:13 Update:
+
+- gcr.io/spinnaker-marketplace/halyard:nightly
+- gcr.io/spinnaker-marketplace/halyard:1.9.2-20180906143739
+- gcr.io/spinnaker-marketplace/halyard:1.9.2-20180907165001
+- gcr.io/spinnaker-marketplace/halyard:1.9.2-20180905161429
+- gcr.io/spinnaker-marketplace/halyard:1.9.1
+- gcr.io/spinnaker-marketplace/halyard:1.9.1-20180830145737
