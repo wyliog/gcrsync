@@ -161,3 +161,12 @@
 ### 2019-09-05 01:24:26 Update:
 
 - gcr.io/google-containers/etcd-s390x:3.3.15-0
+### 2019-09-05 01:28:06 Update:
+
+- gcr.io/linkerd-io/proxy:git-17dd9bf6
+- gcr.io/linkerd-io/cli-bin:git-17dd9bf6
+- gcr.io/linkerd-io/debug:git-17dd9bf6
+- gcr.io/linkerd-io/web:git-17dd9bf6
+- gcr.io/linkerd-io/cni-plugin:git-17dd9bf6
+- gcr.io/linkerd-io/grafana:git-17dd9bf6
+- gcr.io/linkerd-io/controller:git-17dd9bf6
