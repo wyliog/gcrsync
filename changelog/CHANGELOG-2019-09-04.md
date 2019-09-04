@@ -7982,3 +7982,12 @@
 - gcr.io/spinnaker-marketplace/halyard:0.41.0-20180125063050
 - gcr.io/spinnaker-marketplace/halyard:0.41.0-20180126190327
 - gcr.io/spinnaker-marketplace/halyard:0.41.0-20180125065538
+### 2019-09-04 23:37:53 Update:
+
+- gcr.io/linkerd-io/proxy:git-acbab93c
+- gcr.io/linkerd-io/cli-bin:git-acbab93c
+- gcr.io/linkerd-io/web:git-acbab93c
+- gcr.io/linkerd-io/debug:git-acbab93c
+- gcr.io/linkerd-io/cni-plugin:git-acbab93c
+- gcr.io/linkerd-io/grafana:git-acbab93c
+- gcr.io/linkerd-io/controller:git-acbab93c
