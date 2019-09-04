@@ -158,3 +158,6 @@
 - gcr.io/google-containers/kube-apiserver-amd64:v1.16.0-beta.2
 - gcr.io/google-containers/kube-apiserver-arm:v1.16.0-beta.2
 - gcr.io/google-containers/kube-apiserver-arm64:v1.16.0-beta.2
+### 2019-09-05 01:24:26 Update:
+
+- gcr.io/google-containers/etcd-s390x:3.3.15-0
