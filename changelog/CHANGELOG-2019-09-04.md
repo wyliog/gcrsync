@@ -7817,3 +7817,12 @@
 - gcr.io/linkerd-io/controller:git-4f71b522
 - gcr.io/linkerd-io/cli-bin:git-644448e2
 - gcr.io/linkerd-io/go-deps:c921a98b
+### 2019-09-04 20:15:05 Update:
+
+- gcr.io/google-containers/metrics-server-ppc64le:v0.3.4
+- gcr.io/google-containers/metrics-server-arm64:v0.3.4
+- gcr.io/google-containers/metrics-server-amd64:v0.3.4
+- gcr.io/google-containers/metrics-server-arm:v0.3.4
+- gcr.io/google-containers/metrics-server:v0.3.4
+- gcr.io/google-containers/metrics-server-s390x:v0.3.4
+- gcr.io/google-containers/kubelet-to-gcm:1.2.12
