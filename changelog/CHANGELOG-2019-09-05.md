@@ -670,3 +670,15 @@
 - gcr.io/spinnaker-marketplace/halyard:1.9.2-20180905161429
 - gcr.io/spinnaker-marketplace/halyard:1.9.1
 - gcr.io/spinnaker-marketplace/halyard:1.9.1-20180830145737
+### 2019-09-05 07:30:47 Update:
+
+- gcr.io/distroless/java:8
+- gcr.io/distroless/java:latest
+- gcr.io/distroless/nodejs:debug
+- gcr.io/distroless/java:8-debug
+- gcr.io/distroless/nodejs:latest
+- gcr.io/distroless/java:debug
+- gcr.io/distroless/dotnet:debug
+- gcr.io/distroless/dotnet:latest
+- gcr.io/distroless/java:11
+- gcr.io/distroless/java:11-debug
