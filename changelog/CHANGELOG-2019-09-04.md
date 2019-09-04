@@ -7806,3 +7806,14 @@
 - gcr.io/google-containers/gke-metadata-server:da099ce4c87505210e8f9a5704057d222a75e77f
 - gcr.io/google-containers/gke-metadata-server:v0.2.9
 - gcr.io/google-containers/watcher-daemonset:alpha1
+### 2019-09-04 11:19:42 Update:
+
+- gcr.io/linkerd-io/cni-plugin:git-644448e2
+- gcr.io/linkerd-io/web:git-4f71b522
+- gcr.io/linkerd-io/controller:git-644448e2
+- gcr.io/linkerd-io/web:git-644448e2
+- gcr.io/linkerd-io/cni-plugin:git-4f71b522
+- gcr.io/linkerd-io/cli-bin:git-4f71b522
+- gcr.io/linkerd-io/controller:git-4f71b522
+- gcr.io/linkerd-io/cli-bin:git-644448e2
+- gcr.io/linkerd-io/go-deps:c921a98b
