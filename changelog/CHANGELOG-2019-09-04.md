@@ -7801,3 +7801,8 @@
 - gcr.io/linkerd-io/web:git-c8b34a8c
 - gcr.io/linkerd-io/web:git-c8c6426e
 - gcr.io/linkerd-io/web:git-d993756c
+### 2019-09-04 11:15:47 Update:
+
+- gcr.io/google-containers/gke-metadata-server:da099ce4c87505210e8f9a5704057d222a75e77f
+- gcr.io/google-containers/gke-metadata-server:v0.2.9
+- gcr.io/google-containers/watcher-daemonset:alpha1
