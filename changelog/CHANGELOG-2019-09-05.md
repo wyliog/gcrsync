@@ -775,3 +775,9 @@
 - gcr.io/linkerd-io/cli-bin:git-a30882ef
 - gcr.io/linkerd-io/controller:git-d3690299
 - gcr.io/linkerd-io/cli-bin:git-d3690299
+### 2019-09-05 20:32:13 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:6.2.1-20190905051322
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190904202813
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190904202813-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190904202813-ubuntu
