@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mritd/gcrsync/utils"
+	"github.com/wyliog/gcrsync/utils"
 )
 
 func (g *Gcr) Commit(images []string) {
