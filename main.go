@@ -1,6 +1,6 @@
 package main
 
-import "github.com/mritd/gcrsync/cmd"
+import "github.com/wyliog/gcrsync/cmd"
 
 func main() {
 	cmd.Execute()
