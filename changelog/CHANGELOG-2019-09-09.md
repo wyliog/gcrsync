@@ -625,3 +625,12 @@
 - gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190906172815-ubuntu
 - gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190907051321
 - gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190906142816-ubuntu
+### 2019-09-09 18:27:42 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190906181836-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190907051321
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.0-20190906172815-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190906181836
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190905202815
+- gcr.io/spinnaker-marketplace/halyard:1.23.3-20190905112815
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190906130436
