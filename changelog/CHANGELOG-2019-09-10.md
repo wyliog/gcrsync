@@ -101,3 +101,6 @@
 - gcr.io/istio-release/proxy_debug:release-1.1-20190909-12-16
 - gcr.io/istio-release/proxy_debug:release-1.3-20190910-10-16-distroless
 - gcr.io/istio-release/proxy_debug:release-1.3-20190910-10-16
+### 2019-09-10 20:29:38 Update:
+
+- gcr.io/linkerd-io/go-deps:28511e41
