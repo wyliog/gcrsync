@@ -130,3 +130,34 @@
 - gcr.io/istio-release/proxy_debug:release-1.3-20190911-10-16
 - gcr.io/istio-release/proxy_debug:release-1.3-20190911-10-16-distroless
 - gcr.io/istio-release/proxy_debug:release-1.2-20190911-11-16
+### 2019-09-11 20:37:04 Update:
+
+- gcr.io/linkerd-io/debug:edge-1.3.2
+- gcr.io/linkerd-io/controller:git-c5a85e58
+- gcr.io/linkerd-io/controller:git-a5a6e8ff
+- gcr.io/linkerd-io/controller:git-bd702b99
+- gcr.io/linkerd-io/proxy:git-bd702b99
+- gcr.io/linkerd-io/proxy:edge-1.3.2
+- gcr.io/linkerd-io/proxy:git-c5a85e58
+- gcr.io/linkerd-io/proxy:git-a5a6e8ff
+- gcr.io/linkerd-io/web:edge-1.3.2
+- gcr.io/linkerd-io/web:git-a5a6e8ff
+- gcr.io/linkerd-io/web:git-bd702b99
+- gcr.io/linkerd-io/web:git-c5a85e58
+- gcr.io/linkerd-io/cli-bin:git-bd702b99
+- gcr.io/linkerd-io/cli-bin:edge-1.3.2
+- gcr.io/linkerd-io/cli-bin:git-c5a85e58
+- gcr.io/linkerd-io/cli-bin:git-a5a6e8ff
+- gcr.io/linkerd-io/debug:git-bd702b99
+- gcr.io/linkerd-io/debug:git-a5a6e8ff
+- gcr.io/linkerd-io/debug:git-c5a85e58
+- gcr.io/linkerd-io/cni-plugin:git-c5a85e58
+- gcr.io/linkerd-io/cni-plugin:git-bd702b99
+- gcr.io/linkerd-io/cni-plugin:edge-1.3.2
+- gcr.io/linkerd-io/cni-plugin:git-a5a6e8ff
+- gcr.io/linkerd-io/grafana:git-c5a85e58
+- gcr.io/linkerd-io/grafana:edge-1.3.2
+- gcr.io/linkerd-io/grafana:git-a5a6e8ff
+- gcr.io/linkerd-io/grafana:git-bd702b99
+- gcr.io/linkerd-io/controller:edge-1.3.2
+- gcr.io/linkerd-io/go-deps:1c1e51a3
