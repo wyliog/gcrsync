@@ -91,3 +91,31 @@
 - gcr.io/istio-release/pilot:release-1.3-20190912-10-16
 - gcr.io/istio-release/galley:master-20190912-09-16
 - gcr.io/istio-release/pilot:release-1.0-20190911-13-16
+### 2019-09-12 20:30:15 Update:
+
+- gcr.io/linkerd-io/debug:edge-1.3.5
+- gcr.io/linkerd-io/debug:git-8270ba36
+- gcr.io/linkerd-io/debug:git-1e2810c4
+- gcr.io/linkerd-io/debug:edge-1.3.4
+- gcr.io/linkerd-io/proxy:edge-1.3.4
+- gcr.io/linkerd-io/proxy:edge-1.3.5
+- gcr.io/linkerd-io/grafana:git-8270ba36
+- gcr.io/linkerd-io/grafana:edge-1.3.4
+- gcr.io/linkerd-io/grafana:edge-1.3.5
+- gcr.io/linkerd-io/grafana:git-1e2810c4
+- gcr.io/linkerd-io/proxy:git-1e2810c4
+- gcr.io/linkerd-io/controller:git-8270ba36
+- gcr.io/linkerd-io/controller:git-1e2810c4
+- gcr.io/linkerd-io/proxy:git-8270ba36
+- gcr.io/linkerd-io/cni-plugin:git-1e2810c4
+- gcr.io/linkerd-io/cni-plugin:git-8270ba36
+- gcr.io/linkerd-io/cni-plugin:edge-1.3.4
+- gcr.io/linkerd-io/cni-plugin:edge-1.3.5
+- gcr.io/linkerd-io/cli-bin:edge-1.3.5
+- gcr.io/linkerd-io/web:edge-1.3.5
+- gcr.io/linkerd-io/web:edge-1.3.4
+- gcr.io/linkerd-io/web:git-1e2810c4
+- gcr.io/linkerd-io/cli-bin:edge-1.3.4
+- gcr.io/linkerd-io/web:git-8270ba36
+- gcr.io/linkerd-io/cli-bin:git-1e2810c4
+- gcr.io/linkerd-io/cli-bin:git-8270ba36
