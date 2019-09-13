@@ -107,3 +107,18 @@
 - gcr.io/istio-release/proxy_debug:release-1.3-20190913-10-16
 - gcr.io/istio-release/proxy_debug:release-1.2-20190913-11-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190912-12-16
+### 2019-09-13 20:35:20 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-129e0656
+- gcr.io/linkerd-io/cli-bin:git-15c61b42
+- gcr.io/linkerd-io/cli-bin:git-1d1f582b
+- gcr.io/linkerd-io/cli-bin:git-199d886d
+- gcr.io/linkerd-io/cli-bin:git-2e108614
+- gcr.io/linkerd-io/cli-bin:git-0795277f
+- gcr.io/linkerd-io/cli-bin:edge-19.9.2
+- gcr.io/linkerd-io/cli-bin:git-6764d03e
+- gcr.io/linkerd-io/cli-bin:git-87efd997
+- gcr.io/linkerd-io/cli-bin:git-5245523f
+- gcr.io/linkerd-io/cli-bin:git-8a85e2cd
+- gcr.io/linkerd-io/cli-bin:git-e2244913
+- gcr.io/linkerd-io/cli-bin:git-f94199ae
