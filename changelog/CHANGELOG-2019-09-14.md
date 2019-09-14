@@ -175,3 +175,13 @@
 - gcr.io/spinnaker-marketplace/deck:2.11.1-20190913101032-ubuntu
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190914012817-ubuntu
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190913202816-ubuntu
+### 2019-09-14 20:53:48 Update:
+
+- gcr.io/istio-release/sidecar_injector:release-1.1-20190914-12-16
+- gcr.io/istio-release/servicegraph:release-1.1-20190914-12-16
+- gcr.io/istio-release/test_policybackend:release-1.1-20190914-12-16
+- gcr.io/istio-release/proxy_init:release-1.1-20190914-12-16
+- gcr.io/istio-release/mixer:release-1.1-20190914-12-16
+- gcr.io/istio-release/proxyv2:release-1.1-20190914-12-16
+- gcr.io/istio-release/proxytproxy:release-1.1-20190914-12-16
+- gcr.io/istio-release/proxy_debug:release-1.1-20190914-12-16
