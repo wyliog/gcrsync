@@ -110,3 +110,10 @@
 - gcr.io/istio-release/proxy_debug:release-1.3-20190914-10-16-distroless
 - gcr.io/istio-release/proxy_debug:release-1.2-20190914-11-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190913-13-16
+### 2019-09-14 20:34:48 Update:
+
+- gcr.io/linkerd-io/web:tap-headers-2
+- gcr.io/linkerd-io/debug:tap-headers-2
+- gcr.io/linkerd-io/cni-plugin:tap-headers-2
+- gcr.io/linkerd-io/proxy:tap-headers-2
+- gcr.io/linkerd-io/grafana:tap-headers-2
