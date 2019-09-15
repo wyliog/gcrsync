@@ -91,3 +91,26 @@
 - gcr.io/istio-release/test_policybackend:release-1.2-20190915-11-16
 - gcr.io/istio-release/test_policybackend:release-1.3-20190915-10-16
 - gcr.io/istio-release/test_policybackend:release-1.3-20190915-10-16-distroless
+### 2019-09-15 20:31:58 Update:
+
+- gcr.io/linkerd-io/proxy:git-3b0b4d53
+- gcr.io/linkerd-io/controller:git-280c016d
+- gcr.io/linkerd-io/grafana:git-280c016d
+- gcr.io/linkerd-io/controller:git-8e91e515
+- gcr.io/linkerd-io/grafana:git-3b0b4d53
+- gcr.io/linkerd-io/controller:git-3b0b4d53
+- gcr.io/linkerd-io/grafana:git-8e91e515
+- gcr.io/linkerd-io/debug:git-8e91e515
+- gcr.io/linkerd-io/debug:git-3b0b4d53
+- gcr.io/linkerd-io/debug:git-280c016d
+- gcr.io/linkerd-io/proxy:git-280c016d
+- gcr.io/linkerd-io/proxy:git-8e91e515
+- gcr.io/linkerd-io/cni-plugin:git-3b0b4d53
+- gcr.io/linkerd-io/cni-plugin:git-280c016d
+- gcr.io/linkerd-io/cni-plugin:git-8e91e515
+- gcr.io/linkerd-io/web:git-280c016d
+- gcr.io/linkerd-io/web:git-3b0b4d53
+- gcr.io/linkerd-io/web:git-8e91e515
+- gcr.io/linkerd-io/cli-bin:git-3b0b4d53
+- gcr.io/linkerd-io/cli-bin:git-280c016d
+- gcr.io/linkerd-io/cli-bin:git-8e91e515
