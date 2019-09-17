@@ -99,3 +99,36 @@
 ### 2019-09-17 20:33:00 Update:
 
 - gcr.io/linkerd-io/base:2019-09-17.01
+### 2019-09-17 20:48:42 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916110041
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916110041-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916110041
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916110041-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916202816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916202816-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916110041-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916143005-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916143005
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916172816-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916172816
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916143005-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916202816
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916202816-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916172816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.0-20190916202816-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916110041-slim
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916110041
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916110041-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916141821-slim
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916141821
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916202816-slim
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916202816
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916141821-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.12.0-20190916202816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916120042-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916120042
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916120042-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916202816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190916110041-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190916141821
