@@ -96,3 +96,6 @@
 - gcr.io/istio-release/test_policybackend:release-1.2-20190917-11-16
 - gcr.io/istio-release/test_policybackend:release-1.3-20190917-10-16-distroless
 - gcr.io/istio-release/test_policybackend:release-1.3-20190917-10-16
+### 2019-09-17 20:33:00 Update:
+
+- gcr.io/linkerd-io/base:2019-09-17.01
