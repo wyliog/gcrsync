@@ -87,3 +87,34 @@
 - gcr.io/linkerd-io/proxy:l2p-sni
 - gcr.io/linkerd-io/proxy:l2p-sni.0
 - gcr.io/linkerd-io/cli-bin:git-c62c9087
+### 2019-09-20 20:42:37 Update:
+
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20190919112816
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20190919112816-slim
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20190919142816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.1-20190919144957
+- gcr.io/spinnaker-marketplace/orca:2.10.1-20190919144957-slim
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20190919142816-slim
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20190919142816
+- gcr.io/spinnaker-marketplace/gate:1.13.0-20190919112816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.10.1-20190919144957-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20190919142816
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20190919142816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190919112816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190919112816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190919172816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190919172816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190919112816-ubuntu
+- gcr.io/spinnaker-marketplace/front50:0.20.0-20190919142816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190919202817
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190919202817-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190919172816-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190919202817-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.8.4-20190919124222
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190919172816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190919172816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190919142816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190919142816-slim
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190919172816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190919142816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190919172816-ubuntu
