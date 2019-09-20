@@ -66,3 +66,24 @@
 - gcr.io/istio-release/proxytproxy:release-1.3-20190920-10-15-distroless
 - gcr.io/istio-release/sidecar_injector:master-20190920-09-15
 - gcr.io/istio-release/sidecar_injector:master-20190920-09-15-distroless
+### 2019-09-20 20:30:52 Update:
+
+- gcr.io/linkerd-io/web:git-09114d4b
+- gcr.io/linkerd-io/web:edge-19.9.3
+- gcr.io/linkerd-io/proxy:git-09114d4b
+- gcr.io/linkerd-io/proxy:edge-19.9.3
+- gcr.io/linkerd-io/grafana:edge-19.9.3
+- gcr.io/linkerd-io/grafana:git-c62c9087
+- gcr.io/linkerd-io/grafana:git-09114d4b
+- gcr.io/linkerd-io/controller:edge-19.9.3
+- gcr.io/linkerd-io/controller:git-09114d4b
+- gcr.io/linkerd-io/proxy:git-c62c9087
+- gcr.io/linkerd-io/controller:git-c62c9087
+- gcr.io/linkerd-io/web:git-c62c9087
+- gcr.io/linkerd-io/cli-bin:edge-19.9.3
+- gcr.io/linkerd-io/cli-bin:git-09114d4b
+- gcr.io/linkerd-io/cni-plugin:git-09114d4b
+- gcr.io/linkerd-io/cni-plugin:git-c62c9087
+- gcr.io/linkerd-io/proxy:l2p-sni
+- gcr.io/linkerd-io/proxy:l2p-sni.0
+- gcr.io/linkerd-io/cli-bin:git-c62c9087
