@@ -118,3 +118,21 @@
 - gcr.io/spinnaker-marketplace/halyard:1.24.0-20190919172816
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190919142816-ubuntu
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190919172816-ubuntu
+### 2019-09-20 20:47:08 Update:
+
+- gcr.io/istio-release/mixer_codegen:release-1.1-20190920-12-15
+- gcr.io/istio-release/servicegraph:release-1.1-20190920-12-15
+- gcr.io/istio-release/sidecar_injector:release-1.1-20190920-12-15
+- gcr.io/istio-release/citadel:release-1.1-20190920-12-15
+- gcr.io/istio-release/mixer:release-1.1-20190920-12-15
+- gcr.io/istio-release/galley:release-1.1-20190920-12-15
+- gcr.io/istio-release/pilot:release-1.1-20190920-12-15
+- gcr.io/istio-release/kubectl:release-1.1-20190920-12-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20190920-12-15
+- gcr.io/istio-release/proxyv2:release-1.1-20190920-12-15
+- gcr.io/istio-release/proxy_init:release-1.1-20190920-12-15
+- gcr.io/istio-release/test_policybackend:release-1.1-20190920-12-15
+- gcr.io/istio-release/app:release-1.1-20190920-12-15
+- gcr.io/istio-release/install-cni:release-1.1-20190920-12-15
+- gcr.io/istio-release/proxytproxy:release-1.1-20190920-12-15
+- gcr.io/istio-release/proxy_debug:release-1.1-20190920-12-15
