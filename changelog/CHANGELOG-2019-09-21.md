@@ -147,3 +147,9 @@
 - gcr.io/linkerd-io/cli-bin:git-49d39e5a
 - gcr.io/linkerd-io/web:git-e0a33375
 - gcr.io/linkerd-io/web:git-f685008d
+### 2019-09-21 20:39:47 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190920172816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190920202816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190920202816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190920202816-ubuntu
