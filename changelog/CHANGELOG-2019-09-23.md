@@ -82,3 +82,8 @@
 - gcr.io/istio-release/servicegraph:release-1.1-20190922-12-16
 - gcr.io/istio-release/pilot:release-1.2-20190923-11-15
 - gcr.io/istio-release/pilot:release-1.3-20190923-10-15
+### 2019-09-23 20:34:21 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923012816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923012816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20190923012816-ubuntu
