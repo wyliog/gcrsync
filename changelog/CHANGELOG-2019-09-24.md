@@ -146,3 +146,6 @@
 - gcr.io/istio-release/galley:release-1.1-20190924-12-15
 - gcr.io/istio-release/app:release-1.1-20190924-12-15
 - gcr.io/istio-release/node-agent-k8s:release-1.1-20190924-12-15
+### 2019-09-24 20:40:46 Update:
+
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190923112816
