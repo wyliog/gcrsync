@@ -136,3 +136,13 @@
 - gcr.io/linkerd-io/cli-bin:git-151104ec
 - gcr.io/linkerd-io/cli-bin:git-5e51208b
 - gcr.io/linkerd-io/cli-bin:git-e30f5b2e
+### 2019-09-24 20:39:31 Update:
+
+- gcr.io/istio-release/mixer:release-1.1-20190924-12-15
+- gcr.io/istio-release/install-cni:release-1.1-20190924-12-15
+- gcr.io/istio-release/mixer_codegen:release-1.1-20190924-12-15
+- gcr.io/istio-release/citadel:release-1.1-20190924-12-15
+- gcr.io/istio-release/kubectl:release-1.1-20190924-12-15
+- gcr.io/istio-release/galley:release-1.1-20190924-12-15
+- gcr.io/istio-release/app:release-1.1-20190924-12-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20190924-12-15
