@@ -102,3 +102,19 @@
 - gcr.io/istio-release/proxytproxy:release-1.1-20190927-12-16
 - gcr.io/istio-release/proxyv2:release-1.1-20190927-12-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190927-12-16
+### 2019-09-27 20:58:59 Update:
+
+- gcr.io/spinnaker-marketplace/fiat:1.7.1-20190926172815-slim
+- gcr.io/spinnaker-marketplace/fiat:1.7.1-20190926172815
+- gcr.io/spinnaker-marketplace/fiat:1.7.1-20190926172815-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926172815-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.1-20190927075316-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926172815
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926142816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926142816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926172815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926112815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926112815
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926112815-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190926142816-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20190926202816
