@@ -86,3 +86,7 @@
 - gcr.io/istio-release/galley:release-1.1-20190927-12-16
 - gcr.io/istio-release/app:release-1.1-20190927-12-16
 - gcr.io/istio-release/kubectl:release-1.1-20190927-12-16
+### 2019-09-27 20:39:50 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-edd3b1f6
+- gcr.io/linkerd-io/go-deps:a3fe37ac
