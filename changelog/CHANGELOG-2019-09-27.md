@@ -78,3 +78,11 @@
 - gcr.io/istio-release/proxy_debug:master-20190927-09-16
 - gcr.io/istio-release/proxy_debug:release-1.3-20190927-10-16
 - gcr.io/istio-release/proxy_debug:release-1.3-20190927-10-16-distroless
+### 2019-09-27 20:38:49 Update:
+
+- gcr.io/istio-release/citadel:release-1.1-20190927-12-16
+- gcr.io/istio-release/install-cni:release-1.1-20190927-12-16
+- gcr.io/istio-release/mixer:release-1.1-20190927-12-16
+- gcr.io/istio-release/galley:release-1.1-20190927-12-16
+- gcr.io/istio-release/app:release-1.1-20190927-12-16
+- gcr.io/istio-release/kubectl:release-1.1-20190927-12-16
