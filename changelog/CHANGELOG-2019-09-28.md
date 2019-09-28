@@ -64,3 +64,35 @@
 - gcr.io/istio-release/pilot:release-1.2-20190928-11-15
 - gcr.io/istio-release/proxy_init:release-1.2-20190928-11-15
 - gcr.io/istio-release/test_policybackend:master-20190928-09-15
+### 2019-09-28 20:35:23 Update:
+
+- gcr.io/linkerd-io/web:git-caddda8e
+- gcr.io/linkerd-io/web:git-f6cd63b4
+- gcr.io/linkerd-io/debug:git-f6cd63b4
+- gcr.io/linkerd-io/debug:git-caddda8e
+- gcr.io/linkerd-io/cni-plugin:git-f6cd63b4
+- gcr.io/linkerd-io/cni-plugin:git-caddda8e
+- gcr.io/linkerd-io/grafana:git-a47ef729
+- gcr.io/linkerd-io/web:git-a47ef729
+- gcr.io/linkerd-io/web:tilt-624ed1b8182d956b
+- gcr.io/linkerd-io/grafana:git-f6cd63b4
+- gcr.io/linkerd-io/grafana:git-caddda8e
+- gcr.io/linkerd-io/web:tilt-792631c424fc6600
+- gcr.io/linkerd-io/web:tilt-da0238d76f33bb08
+- gcr.io/linkerd-io/controller:git-a47ef729
+- gcr.io/linkerd-io/controller:dev-a47ef729-isim
+- gcr.io/linkerd-io/controller:git-caddda8e
+- gcr.io/linkerd-io/controller:tilt-0adb5767de046bc0
+- gcr.io/linkerd-io/controller:git-f6cd63b4
+- gcr.io/linkerd-io/controller:tilt-0b60e4af037f9547
+- gcr.io/linkerd-io/cli-bin:git-caddda8e
+- gcr.io/linkerd-io/controller:tilt-0d7c9606694465f6
+- gcr.io/linkerd-io/controller:tilt-8fcaf6fded34be8e
+- gcr.io/linkerd-io/cli-bin:git-f6cd63b4
+- gcr.io/linkerd-io/controller:tilt-d18101913b749d18
+- gcr.io/linkerd-io/proxy:git-caddda8e
+- gcr.io/linkerd-io/proxy:git-f6cd63b4
+- gcr.io/linkerd-io/proxy:git-a47ef729
+- gcr.io/linkerd-io/controller:tilt-d705d9d82ef3b438
+- gcr.io/linkerd-io/proxy:eliza-tap-headers.0
+- gcr.io/linkerd-io/proxy:tap-headers.0
