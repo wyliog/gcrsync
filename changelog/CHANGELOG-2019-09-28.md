@@ -124,3 +124,21 @@
 - gcr.io/spinnaker-marketplace/orca:2.11.0-20190927202815-ubuntu
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190927112816-ubuntu
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20190927172815-ubuntu
+### 2019-09-28 20:53:49 Update:
+
+- gcr.io/istio-release/mixer_codegen:release-1.1-20190928-12-15
+- gcr.io/istio-release/mixer:release-1.1-20190928-12-15
+- gcr.io/istio-release/test_policybackend:release-1.1-20190928-12-15
+- gcr.io/istio-release/galley:release-1.1-20190928-12-15
+- gcr.io/istio-release/sidecar_injector:release-1.1-20190928-12-15
+- gcr.io/istio-release/app:release-1.1-20190928-12-15
+- gcr.io/istio-release/kubectl:release-1.1-20190928-12-15
+- gcr.io/istio-release/proxy_init:release-1.1-20190928-12-15
+- gcr.io/istio-release/citadel:release-1.1-20190928-12-15
+- gcr.io/istio-release/proxytproxy:release-1.1-20190928-12-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20190928-12-15
+- gcr.io/istio-release/install-cni:release-1.1-20190928-12-15
+- gcr.io/istio-release/pilot:release-1.1-20190928-12-15
+- gcr.io/istio-release/servicegraph:release-1.1-20190928-12-15
+- gcr.io/istio-release/proxyv2:release-1.1-20190928-12-15
+- gcr.io/istio-release/proxy_debug:release-1.1-20190928-12-15
