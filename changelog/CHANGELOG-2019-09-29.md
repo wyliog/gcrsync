@@ -81,3 +81,16 @@
 - gcr.io/istio-release/citadel:release-1.1-20190929-12-15
 - gcr.io/istio-release/galley:release-1.1-20190929-12-15
 - gcr.io/istio-release/app:release-1.1-20190929-12-15
+### 2019-09-29 20:41:49 Update:
+
+- gcr.io/istio-release/mixer_codegen:release-1.1-20190929-12-15
+- gcr.io/istio-release/sidecar_injector:release-1.1-20190929-12-15
+- gcr.io/istio-release/proxy_init:release-1.1-20190929-12-15
+- gcr.io/istio-release/servicegraph:release-1.1-20190929-12-15
+- gcr.io/istio-release/mixer:release-1.1-20190929-12-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20190929-12-15
+- gcr.io/istio-release/proxyv2:release-1.1-20190929-12-15
+- gcr.io/istio-release/kubectl:release-1.1-20190929-12-15
+- gcr.io/istio-release/pilot:release-1.1-20190929-12-15
+- gcr.io/istio-release/proxytproxy:release-1.1-20190929-12-15
+- gcr.io/istio-release/proxy_debug:release-1.1-20190929-12-15
