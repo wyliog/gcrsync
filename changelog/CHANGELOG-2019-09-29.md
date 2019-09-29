@@ -94,3 +94,6 @@
 - gcr.io/istio-release/pilot:release-1.1-20190929-12-15
 - gcr.io/istio-release/proxytproxy:release-1.1-20190929-12-15
 - gcr.io/istio-release/proxy_debug:release-1.1-20190929-12-15
+### 2019-09-29 20:44:10 Update:
+
+- gcr.io/istio-release/test_policybackend:release-1.1-20190929-12-15
