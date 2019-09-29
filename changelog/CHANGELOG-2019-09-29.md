@@ -75,3 +75,9 @@
 - gcr.io/istio-release/proxy_debug:release-1.2-20190929-11-15
 - gcr.io/istio-release/proxy_debug:release-1.3-20190929-10-15
 - gcr.io/istio-release/proxy_debug:release-1.3-20190929-10-15-distroless
+### 2019-09-29 20:38:11 Update:
+
+- gcr.io/istio-release/install-cni:release-1.1-20190929-12-15
+- gcr.io/istio-release/citadel:release-1.1-20190929-12-15
+- gcr.io/istio-release/galley:release-1.1-20190929-12-15
+- gcr.io/istio-release/app:release-1.1-20190929-12-15
