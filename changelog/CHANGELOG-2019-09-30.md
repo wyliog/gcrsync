@@ -85,3 +85,8 @@
 - gcr.io/linkerd-io/web:git-a3a240e0
 - gcr.io/linkerd-io/cli-bin:git-a3a240e0
 - gcr.io/linkerd-io/go-deps:7777de65
+### 2019-09-30 20:38:08 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817-ubuntu
