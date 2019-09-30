@@ -90,3 +90,15 @@
 - gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817-slim
 - gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817
 - gcr.io/spinnaker-marketplace/deck:2.13.0-20190930012817-ubuntu
+### 2019-09-30 20:41:45 Update:
+
+- gcr.io/istio-release/sidecar_injector:release-1.1-20190930-12-15
+- gcr.io/istio-release/proxy_init:release-1.1-20190930-12-15
+- gcr.io/istio-release/test_policybackend:release-1.1-20190930-12-15
+- gcr.io/istio-release/pilot:release-1.1-20190930-12-15
+- gcr.io/istio-release/mixer_codegen:release-1.1-20190930-12-15
+- gcr.io/istio-release/proxytproxy:release-1.1-20190930-12-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20190930-12-15
+- gcr.io/istio-release/servicegraph:release-1.1-20190930-12-15
+- gcr.io/istio-release/proxyv2:release-1.1-20190930-12-15
+- gcr.io/istio-release/proxy_debug:release-1.1-20190930-12-15
