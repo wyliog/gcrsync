@@ -97,3 +97,15 @@
 - gcr.io/linkerd-io/grafana:edge-19.9.5
 - gcr.io/linkerd-io/cli-bin:edge-19.9.5
 - gcr.io/linkerd-io/cli-bin:git-38a2f3ad
+### 2019-10-01 20:42:19 Update:
+
+- gcr.io/istio-release/mixer_codegen:release-1.1-20191001-12-15
+- gcr.io/istio-release/install-cni:release-1.1-20191001-12-15
+- gcr.io/istio-release/servicegraph:release-1.1-20191001-12-15
+- gcr.io/istio-release/app:release-1.1-20191001-12-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20191001-12-15
+- gcr.io/istio-release/test_policybackend:release-1.1-20191001-12-15
+- gcr.io/istio-release/sidecar_injector:release-1.1-20191001-12-15
+- gcr.io/istio-release/proxytproxy:release-1.1-20191001-12-15
+- gcr.io/istio-release/proxyv2:release-1.1-20191001-12-15
+- gcr.io/istio-release/proxy_debug:release-1.1-20191001-12-15
