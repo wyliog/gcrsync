@@ -250,3 +250,35 @@
 - gcr.io/spinnaker-marketplace/halyard:1.24.0-20191002142815-ubuntu
 - gcr.io/spinnaker-marketplace/halyard:nightly-ubuntu
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002202815-ubuntu
+### 2019-10-03 21:05:09 Update:
+
+- gcr.io/distroless/static:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/static:6dd426d37e95b02893f14bcee72640f50dc9beba
+- gcr.io/distroless/python2.7-debian9:latest
+- gcr.io/distroless/python2.7-debian9:debug
+- gcr.io/distroless/python3-debian9:debug
+- gcr.io/distroless/python3-debian9:latest
+- gcr.io/distroless/base-debian9:debug
+- gcr.io/distroless/base-debian9:debug-nonroot
+- gcr.io/distroless/base-debian10:nonroot
+- gcr.io/distroless/base-debian10:debug
+- gcr.io/distroless/base-debian10:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/base-debian10:debug-nonroot
+- gcr.io/distroless/base-debian9:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/base-debian9:nonroot
+- gcr.io/distroless/static-debian9:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/cc:6dd426d37e95b02893f14bcee72640f50dc9beba
+- gcr.io/distroless/cc-debian10:debug
+- gcr.io/distroless/cc:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/cc-debian10:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/static-debian9:nonroot
+- gcr.io/distroless/static-debian10:nonroot
+- gcr.io/distroless/static-debian10:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/python3-debian10:debug
+- gcr.io/distroless/python3-debian10:latest
+- gcr.io/distroless/base:6dd426d37e95b02893f14bcee72640f50dc9beba
+- gcr.io/distroless/cc-debian9:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/base:f905a6636c5106c36cc979bdcc19f0fe4fc01ede
+- gcr.io/distroless/python2.7-debian10:debug
+- gcr.io/distroless/python2.7-debian10:latest
+- gcr.io/distroless/cc-debian9:debug
