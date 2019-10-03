@@ -217,3 +217,36 @@
 - gcr.io/linkerd-io/proxy:git-d5ca7358
 - gcr.io/linkerd-io/cli-bin:git-d5ca7358
 - gcr.io/linkerd-io/cli-bin:git-fc3f8a87
+### 2019-10-03 21:04:44 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002142815
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002173016
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002173016-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002142815-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002112815
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002112815-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002202815
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002202815-slim
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002173016-ubuntu
+- gcr.io/spinnaker-marketplace/deck:2.13.0-20191002202815-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191002173016
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191002173016-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191002202815
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191002202815-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191002173016-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191002173016-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191002202815-ubuntu
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191002173016
+- gcr.io/spinnaker-marketplace/echo:2.9.0-20191002173016-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002163528-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002163528
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002202815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002202815
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002163528-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002173016
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002173016-slim
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20191002142815
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002173016-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:1.24.0-20191002142815-ubuntu
+- gcr.io/spinnaker-marketplace/halyard:nightly-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191002202815-ubuntu
