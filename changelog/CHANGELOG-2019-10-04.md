@@ -105,3 +105,6 @@
 - gcr.io/istio-release/proxyv2:release-1.1-20191004-12-15
 - gcr.io/istio-release/proxy_init:release-1.1-20191004-12-15
 - gcr.io/istio-release/proxy_debug:release-1.1-20191004-12-15
+### 2019-10-04 20:44:49 Update:
+
+- gcr.io/istio-release/test_policybackend:release-1.1-20191004-12-15
