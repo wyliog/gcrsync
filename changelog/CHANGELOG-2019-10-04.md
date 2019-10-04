@@ -79,3 +79,12 @@
 - gcr.io/istio-release/proxy_debug:release-1.2-20191004-11-15
 - gcr.io/istio-release/proxy_debug:release-1.3-20191004-10-15-distroless
 - gcr.io/istio-release/proxy_debug:release-1.3-20191004-10-15
+### 2019-10-04 20:38:43 Update:
+
+- gcr.io/linkerd-io/controller:edge-19.10.1
+- gcr.io/linkerd-io/proxy:edge-19.10.1
+- gcr.io/linkerd-io/debug:edge-19.10.1
+- gcr.io/linkerd-io/cni-plugin:edge-19.10.1
+- gcr.io/linkerd-io/web:edge-19.10.1
+- gcr.io/linkerd-io/grafana:edge-19.10.1
+- gcr.io/linkerd-io/cli-bin:edge-19.10.1
