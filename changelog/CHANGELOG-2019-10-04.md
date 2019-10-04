@@ -108,3 +108,16 @@
 ### 2019-10-04 20:44:49 Update:
 
 - gcr.io/istio-release/test_policybackend:release-1.1-20191004-12-15
+### 2019-10-04 20:56:17 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:6.2.2-20191004051321
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191003142632-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191003142632
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.2-20191004075315-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191003202815-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191003202815
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.2-20191004075315-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191004012816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191004012816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191003202815-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191003142632-ubuntu
