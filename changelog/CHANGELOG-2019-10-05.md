@@ -70,3 +70,9 @@
 - gcr.io/istio-release/proxyv2:release-1.1-20191005-12-15
 - gcr.io/istio-release/proxytproxy:release-1.1-20191005-12-15
 - gcr.io/istio-release/proxy_debug:release-1.1-20191005-12-15
+### 2019-10-05 20:48:03 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191004172816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191004172816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191004172816-ubuntu
+- gcr.io/spinnaker-marketplace/clouddriver:6.3.2-20191005075315-ubuntu
