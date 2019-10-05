@@ -54,3 +54,10 @@
 - gcr.io/linkerd-io/cni-plugin:git-c5d68ecb
 - gcr.io/linkerd-io/debug:git-c5d68ecb
 - gcr.io/linkerd-io/cli-bin:git-c5d68ecb
+### 2019-10-05 20:39:55 Update:
+
+- gcr.io/istio-release/galley:release-1.1-20191005-12-15
+- gcr.io/istio-release/kubectl:release-1.1-20191005-12-15
+- gcr.io/istio-release/app:release-1.1-20191005-12-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20191005-12-15
+- gcr.io/istio-release/pilot:release-1.1-20191005-12-15
