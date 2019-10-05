@@ -45,3 +45,12 @@
 - gcr.io/istio-release/proxy_debug:release-1.2-20191005-11-15
 - gcr.io/istio-release/proxy_debug:release-1.3-20191005-10-15-distroless
 - gcr.io/istio-release/proxy_debug:release-1.3-20191005-10-15
+### 2019-10-05 20:37:35 Update:
+
+- gcr.io/linkerd-io/controller:git-c5d68ecb
+- gcr.io/linkerd-io/web:git-c5d68ecb
+- gcr.io/linkerd-io/proxy:git-c5d68ecb
+- gcr.io/linkerd-io/grafana:git-c5d68ecb
+- gcr.io/linkerd-io/cni-plugin:git-c5d68ecb
+- gcr.io/linkerd-io/debug:git-c5d68ecb
+- gcr.io/linkerd-io/cli-bin:git-c5d68ecb
