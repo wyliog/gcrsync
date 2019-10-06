@@ -56,3 +56,8 @@
 - gcr.io/istio-release/node-agent-k8s:release-1.1-20191006-12-15
 - gcr.io/istio-release/app:release-1.1-20191006-12-15
 - gcr.io/istio-release/pilot:release-1.1-20191006-12-15
+### 2019-10-06 20:41:46 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191006012816-slim
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191006012816
+- gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191006012816-ubuntu
