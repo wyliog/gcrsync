@@ -45,3 +45,14 @@
 - gcr.io/istio-release/proxyv2:release-1.2-20191006-11-15
 - gcr.io/istio-release/proxyv2:release-1.3-20191006-10-15
 - gcr.io/istio-release/proxyv2:release-1.3-20191006-10-15-distroless
+### 2019-10-06 20:40:00 Update:
+
+- gcr.io/istio-release/install-cni:release-1.1-20191006-12-15
+- gcr.io/istio-release/mixer_codegen:release-1.1-20191006-12-15
+- gcr.io/istio-release/citadel:release-1.1-20191006-12-15
+- gcr.io/istio-release/mixer:release-1.1-20191006-12-15
+- gcr.io/istio-release/galley:release-1.1-20191006-12-15
+- gcr.io/istio-release/kubectl:release-1.1-20191006-12-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20191006-12-15
+- gcr.io/istio-release/app:release-1.1-20191006-12-15
+- gcr.io/istio-release/pilot:release-1.1-20191006-12-15
