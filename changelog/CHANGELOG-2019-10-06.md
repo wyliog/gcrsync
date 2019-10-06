@@ -61,3 +61,6 @@
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191006012816-slim
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191006012816
 - gcr.io/spinnaker-marketplace/clouddriver:6.4.0-20191006012816-ubuntu
+### 2019-10-06 20:43:56 Update:
+
+- gcr.io/istio-release/proxy_debug:release-1.1-20191006-12-15
