@@ -45,3 +45,11 @@
 - gcr.io/istio-release/proxy_debug:release-1.2-20191007-11-15
 - gcr.io/istio-release/proxy_debug:release-1.3-20191007-10-15
 - gcr.io/istio-release/proxy_debug:release-1.3-20191007-10-15-distroless
+### 2019-10-07 20:38:58 Update:
+
+- gcr.io/spinnaker-marketplace/orca:2.10.2-20191007075316-slim
+- gcr.io/spinnaker-marketplace/orca:2.10.2-20191007075316
+- gcr.io/spinnaker-marketplace/orca:2.10.2-20191007075316-ubuntu
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191007012816
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191007012816-slim
+- gcr.io/spinnaker-marketplace/orca:2.11.0-20191007012816-ubuntu
