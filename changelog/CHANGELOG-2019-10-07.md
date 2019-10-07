@@ -53,3 +53,14 @@
 - gcr.io/spinnaker-marketplace/orca:2.11.0-20191007012816
 - gcr.io/spinnaker-marketplace/orca:2.11.0-20191007012816-slim
 - gcr.io/spinnaker-marketplace/orca:2.11.0-20191007012816-ubuntu
+### 2019-10-07 20:41:44 Update:
+
+- gcr.io/istio-release/servicegraph:release-1.1-20191007-12-15
+- gcr.io/istio-release/sidecar_injector:release-1.1-20191007-12-15
+- gcr.io/istio-release/node-agent-k8s:release-1.1-20191007-12-15
+- gcr.io/istio-release/app:release-1.1-20191007-12-15
+- gcr.io/istio-release/kubectl:release-1.1-20191007-12-15
+- gcr.io/istio-release/test_policybackend:release-1.1-20191007-12-15
+- gcr.io/istio-release/proxytproxy:release-1.1-20191007-12-15
+- gcr.io/istio-release/proxy_debug:release-1.1-20191007-12-15
+- gcr.io/istio-release/proxyv2:release-1.1-20191007-12-15
