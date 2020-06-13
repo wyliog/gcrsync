@@ -35,7 +35,7 @@ func (g *Gcr) Commit(images []string) {
 	_, _ = chgLog.WriteString(updateInfo + string(content))
 
 	utils.GitCmd(repoDir, "config", "--global", "push.default", "simple")
-	utils.GitCmd(repoDir, "config", "--global", "user.email", "gcrsync@mritd.me")
+	utils.GitCmd(repoDir, "config", "--global", "user.email", "gcrsync@wyliog.me")
 	utils.GitCmd(repoDir, "config", "--global", "user.name", "gcrsync")
 	utils.GitCmd(repoDir, "add", ".")
 	utils.GitCmd(repoDir, "commit", "-m", g.CommitMsg)

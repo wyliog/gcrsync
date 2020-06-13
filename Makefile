@@ -7,7 +7,7 @@ all:
         -output="dist/{{.Dir}}_{{.OS}}_{{.Arch}}"
 
 release: all
-	ghr -u mritd -t $(GITHUB_RELEASE_TOKEN) -replace -recreate --debug $(version) dist
+	ghr -u wyliog -t $(GITHUB_RELEASE_TOKEN) -replace -recreate --debug $(version) dist
 
 clean:
 	rm -rf dist

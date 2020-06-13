@@ -41,6 +41,6 @@ func init() {
 	rootCmd.PersistentFlags().DurationVar(&httpTimeOut, "httptimeout", 10*time.Second, "http request timeout")
 	rootCmd.PersistentFlags().DurationVar(&syncTimeOut, "synctimeout", 0, "sync timeout")
 	rootCmd.PersistentFlags().IntVar(&processLimit, "processlimit", 10, "image process limit")
-	rootCmd.PersistentFlags().StringVar(&githubRepo, "githubrepo", "mritd/gcr", "github commit repo")
+	rootCmd.PersistentFlags().StringVar(&githubRepo, "githubrepo", "wyliog/gcr", "github commit repo")
 	rootCmd.PersistentFlags().StringVar(&githubToken, "githubtoken", "", "github commit token")
 }
