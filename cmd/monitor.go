@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/mritd/gcrsync/gcrsync"
+	"github.com/wyliog/gcrsync/gcrsync"
 	"github.com/spf13/cobra"
 )
 

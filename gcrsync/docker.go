@@ -11,7 +11,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/mritd/gcrsync/utils"
+	"github.com/wyliog/gcrsync/utils"
 
 	"github.com/docker/docker/api/types"
 )
