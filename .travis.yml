@@ -13,9 +13,9 @@ go:
 
 script:
   - curl -L "https://github.com/mritd/imgsync/releases/download/v1.3.2/gcrsync_linux_amd64" -o gcrsync &&  chmod +x gcrsync 
-  - gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace google-containers
-  - gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace kubernetes-helm
-  - gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace istio-release
-  - gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace linkerd-io
-  - gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace spinnaker-marketplace
-  - gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace distroless
+  - ./gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace google-containers
+  - ./gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace kubernetes-helm
+  - ./gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace istio-release
+  - ./gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace linkerd-io
+  - ./gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace spinnaker-marketplace
+  - ./gcrsync sync --querylimit 20 --processlimit 10 --httptimeout 10s --user ${DOCKER_USER} --password ${DOCKER_PASSWORD} --githubrepo ${GITHUB_REPO} --githubtoken ${GITHUB_TOKEN} --namespace distroless
